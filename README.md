@@ -1,11 +1,10 @@
 ## 💜 Olá, meu nome é Letícia Borkowski!
 
-Faça uma breve apresentação sobre você e a sua stack.
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Iniciando minha jornada no mundo da tecnologia
+🌱 Atualmente aprendendo HTML, CSS, JavaScript e Python
+🚀 Interessada em desenvolvimento web e soluções criativas
+📚 Usando este espaço para compartilhar meus estudos e projetos
 
 ## 🚀 Minhas Skills
 
