@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é Letícia Borkowski!
+##  Olá, meu nome é Letícia Borkowski!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Iniciando minha jornada no mundo da tecnologia
-🌱 Atualmente aprendendo HTML, CSS, JavaScript e Python
-🚀 Interessada em desenvolvimento web e soluções criativas
-📚 Usando este espaço para compartilhar meus estudos e projetos
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 💻 Iniciando minha jornada no mundo da tecnologia  
+- 🌱 Atualmente aprendendo HTML, CSS, JavaScript e Python  
+- 🚀 Interessada em desenvolvimento web e soluções criativas  
+- 📚 Usando este espaço para compartilhar meus estudos e projetos  
 
 ## 🚀 Minhas Skills
 
@@ -25,15 +25,7 @@
 
 <p align="left">
   
-  <a href="mailto:borkowski.leticia@aluno.ifsp.edu.br" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-borkowski-15353927a/)
+[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia_borkowski)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borkowski.leticia@aluno.ifsp.edu.br)
 
-  <a href="https://www.linkedin.com/in/let%C3%ADcia-borkowski-15353927a/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.instagram.com/leticia_borkowski" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
