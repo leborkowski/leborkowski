@@ -1,10 +1,12 @@
 ##  Olá 🌸 meu nome é Letícia Borkowski!
 
-🎀 - Estudante de **Análise e Desenvolvimento de Sistemas**  
-🍓 - Iniciando minha jornada no mundo da tecnologia  
-🦋 - Atualmente aprendendo **HTML, CSS, JavaScript e Python**  
-💗 - Interessada em desenvolvimento web e soluções criativas  
-🍄 - Usando este espaço para compartilhar meus estudos e projetos  
+🎀 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🍓 Iniciando minha jornada no mundo da tecnologia  
+🦋 Atualmente aprendendo **HTML, CSS, JavaScript e Python**  
+💗 Interessada em desenvolvimento web e soluções criativas  
+🍄 Usando este espaço para compartilhar meus estudos e projetos  
+
+---
 
 ## 🍒 Minhas Skills
 
@@ -16,9 +18,11 @@
 
 ---
 
-## 🪐Status do GitHub
+## 🪐Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leborkowski&show_icons=true&locale=pt-br)
+
+---
 
 ## 💌 Onde me encontrar:
 </p>
