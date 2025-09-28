@@ -21,17 +21,15 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
-
-<p align="left">
-  <strong>## 💌 Onde me encontrar: ⤵️</strong>
+## 💌 Onde me encontrar:
 </p>
 
 <p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com" title="Gmail">
+  <a href="mailto:borkowski.leticia@aluno.ifsp.edu.br" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/leticia-borkowski-15353927a" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-borkowski-15353927a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
