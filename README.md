@@ -21,18 +21,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
 
 <p align="left">
   💌 Onde me encontrar: ⤵️
@@ -42,7 +30,7 @@ Faça uma breve apresentação sobre você e a sua stack.
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/letícia-borkowski-15353927a" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/letícia-borkowski-15353927a" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leticia_borkowski" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https:"//www.instagram.com/leticia_borkowski" alt="Instagram"/></a>
 </p>
